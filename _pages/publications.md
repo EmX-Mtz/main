@@ -6,7 +6,7 @@ description: Research areas and topics that I am interested in.
 nav: true
 ---
 <!-- _pages/publications.md -->
-<div class="publications">
-  {% bibliography -f papers -q %}
 
-</div>
+{% bibliography -f papers  %}
+
+
