@@ -2,7 +2,7 @@
 layout: about
 title:
 permalink: /
-subtitle: 
+subtitle: Emmanuel M.
 
 profile:
   align: right
