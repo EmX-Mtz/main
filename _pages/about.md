@@ -1,13 +1,13 @@
 ---
 layout: about
-title: About
+title:
 permalink: /
 subtitle: 
 
 profile:
   align: right
   address: >
-    <p>Your City, State 12345</p>
+    <p>Pachuca de Soto, Hidalgo</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
