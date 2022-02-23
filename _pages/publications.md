@@ -5,9 +5,6 @@ title: Research
 description: Research areas and topics that I am interested in.
 nav: true
 ---
-<!-- _pages/publications.md -->
-
-<!-- {% bibliography -f papers  %} -->
 
 <div class="myDiv">
 <h2> Working Papers </h2>
