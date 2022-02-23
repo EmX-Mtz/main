@@ -101,8 +101,8 @@ disqus_shortname: Admin # put your disqus shortname
 # -----------------------------------------------------------------------------
 
 collections:
-  news & updates:
-    defaults:
+  news: News & updates
+    defaults:   
       layout: post
     output: true
     permalink: /news/:path/
