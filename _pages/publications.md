@@ -24,13 +24,13 @@ nav: true
 
 
 <div class="myDiv">
-<h2> Information & Computing (Computer Science)  </h2>
+<h2> Information & Computing (Computer Science) </h2>
 <div class="row">
   <ul>
   <li>Machine Learning&nbsp;</li>
   <li>Deep Learning</li>
   <li>Quantum Machine Learning</li>
-  <li>Hopfield networks&nbsp;</li>
-  <li>Boltzmann Machines&nbsp;</li>
-  <li>Optimization&nbsp;</li>
+  <li>Hopfield networks</li>
+  <li>Boltzmann Machines</li>
+  <li>Optimization Algorithms&nbsp;</li>
   </ul> 
