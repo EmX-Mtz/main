@@ -1,7 +1,6 @@
 ---
 layout: about
-nav: true
-title: about
+title: About
 permalink: /
 
 profile:
