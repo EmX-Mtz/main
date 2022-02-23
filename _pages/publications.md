@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Research
-description: Research areas and topics that I am interested in.
+description: Areas and topics that I am interested in.
 nav: true
 ---
 
