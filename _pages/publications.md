@@ -24,53 +24,13 @@ nav: true
 
 
 <div class="myDiv">
-<h2> Book Chapters </h2>
-<ol class="bibliography">
-<li>
+<h2> Information & Computing (Computer Science)  </h2>
 <div class="row">
-  <div id="berger2021link" class="col-sm-8">
-    
-      <div class="title">The Link between Health and Working Longer: Differences in Work Capacity</div>
-      <div class="author">
-                <em>Berger, Benjamin</em>,
-                  Lopez-Garcia, Italo,
-                  Maestas, Nicole,and Mullen, Kathleen  
-      </div>
-
-      <div class="periodical">
-        2021
-      </div>
-    
-
-    <div class="links">
-      <a href="/assets/pdf/papers/berger_etal_2021_wc.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
-    </div>  
-  </div> 
-</div>
-  
-</li>
-<li>
-  
-  
-<div class="row">
-  <div id="bagley2019orphan" class="col-sm-8">
-    
-      <div class="title">The Orphan Drug Act at 35: Observations and an outlook for the twenty-first century</div>
-      <div class="author">
-                  Bagley, Nicholas,
-                <em>Berger, Benjamin</em>,
-                  Chandra, Amitabh,
-                  Garthwaite, Craig,
-                  and Stern, Ariel D
-  
-      </div>
-      <div class="periodical">
-        2019
-      </div>
-   
-    
-    <div class="links">
-      <a href="/assets/pdf/papers/bagley_etal_2019.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
-    </div>
-
-
+  <ul>
+  <li>Machine Learning&nbsp;</li>
+  <li>Deep Learning</li>
+  <li>Quantum Machine Learning</li>
+  <li>Hopfield networks&nbsp;</li>
+  <li>Boltzmann Machines&nbsp;</li>
+  <li>Optimization&nbsp;</li>
+  </ul> 
