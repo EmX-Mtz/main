@@ -7,24 +7,17 @@ nav: true
 ---
 
 <div class="myDiv">
-<h2> Working Papers </h2>
+<h2> Physics </h2>
 <ol class="bibliography"><li>
 <div class="row">
-  <div id="berger2021regulatory" class="col-sm-8">
-    
-      <div class="title">Regulatory Approval and Expanded Market Size</div>
-      <div class="author">  
-                <em>Berger, Benjamin</em>,Chandra, Amitabh, and Garthwaite, Craig  
-        
-      </div>
-      <div class="periodical">  
-        2021
-      </div>
-    
-    <div class="links"> 
-      <a href="/assets/pdf/papers/berger_chandra_garthwaite_2021_wp.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
-    </div>  
-  </div>
+  
+<ul>
+<li>Quantum Mechanics&nbsp;</li>
+<li>Computational Physics</li>
+<li>Quantum Computing</li>
+<li>Estatistical Physics&nbsp;</li>
+</ul> 
+
   
   
 </div>
