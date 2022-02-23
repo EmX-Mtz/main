@@ -1,6 +1,6 @@
 ---
-layout: About
-title: Emmanuel M.
+layout: about
+title: About
 permalink: /
 subtitle:
 
