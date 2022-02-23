@@ -101,7 +101,7 @@ disqus_shortname: Admin # put your disqus shortname
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
+  news & updates:
     defaults:
       layout: post
     output: true
