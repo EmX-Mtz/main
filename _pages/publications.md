@@ -15,7 +15,7 @@ nav: true
   <li>Quantum Computing</li>
   <li>Estatistical Physics&nbsp;</li>
   </ul> 
-
+</div>
   
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -37,3 +37,4 @@ nav: true
   <li> Boltzmann Machines</li>
   <li> Optimization Algorithms&nbsp;</li>
   </ul> 
+</div>
