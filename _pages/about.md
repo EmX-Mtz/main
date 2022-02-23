@@ -1,8 +1,8 @@
 ---
 layout: about
-title:
+title: Emmanuel M.
 permalink: /
-subtitle: Emmanuel M.
+subtitle:
 
 profile:
   align: right
