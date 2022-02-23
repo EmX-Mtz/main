@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Research
 description: Research areas and topics that I am interested in.
-years:
+years:[ , , , ]
 nav: true
 ---
 <!-- _pages/publications.md -->
