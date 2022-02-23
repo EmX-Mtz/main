@@ -1,8 +1,8 @@
 ---
 layout: about
+nav: true
 title: about
 permalink: /
-nav: true
 
 profile:
   align: right
