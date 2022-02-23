@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: About
 title: About me
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
@@ -7,9 +7,7 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    #<p>555 your office number</p>
-    #<p>123 your address street</p>
+  address: 
     <p>Pachuca De Soto, Hidalgo.</p>
 
 news: true  # includes a list of news items
