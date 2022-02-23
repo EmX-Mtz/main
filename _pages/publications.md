@@ -9,19 +9,18 @@ nav: true
 <div class="myDiv">
 <h2> Physics </h2>
 <div class="row">
-  
-<ul>
-<li>Quantum Mechanics&nbsp;</li>
-<li>Computational Physics</li>
-<li>Quantum Computing</li>
-<li>Estatistical Physics&nbsp;</li>
-</ul> 
+  <ul>
+  <li>Quantum Mechanics&nbsp;</li>
+  <li>Computational Physics</li>
+  <li>Quantum Computing</li>
+  <li>Estatistical Physics&nbsp;</li>
+  </ul> 
 
   
-  
-</div>
-</li></ol>
-</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 <div class="myDiv">
