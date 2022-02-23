@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: About
 title: Emmanuel M.
 permalink: /
 subtitle:
