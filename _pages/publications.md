@@ -8,7 +8,6 @@ nav: true
 
 <div class="myDiv">
 <h2> Physics </h2>
-<ol class="bibliography"><li>
 <div class="row">
   
 <ul>
