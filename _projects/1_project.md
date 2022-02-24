@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Encrypted Text
+title:Encrypted Text
 description:
 img: assets/img/img1.jpg
 importance: 1
-category: Programming and Numerical Methods
+category:Programming and Numerical Methods
 ---
 
 The idea of this project is based on file or information security. Since there are various ways or methods by which various types of files can be secured, I chose to develop an encryption program mainly oriented to text files.
