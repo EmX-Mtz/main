@@ -2,7 +2,7 @@
 layout: page
 title: Encrypted Text
 description: a project with a background image
-img: assets/img/01.jpg
+img: assets/img/img1.jpg
 importance: 1
 category: Programming and Numerical Methods
 ---
