@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: 
 nav: true
-display_categories: [Programming and Numerical Methods, Data Analisis, AI, Others]
+display_categories: [Programming and Numerical Methods, Data Analysis, AI, Others]
 horizontal: false
 ---
 
