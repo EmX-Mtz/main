@@ -12,12 +12,11 @@ horizontal: false
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
-  <div class="w3-text-cyan">
   {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
+  <h2 class="category">{{<p style="color:blue">  category </p>}}</h2>
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  </div>
+
   
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
@@ -60,5 +59,5 @@ horizontal: false
 </div>
 
 <div class='footer'>
-  <a href="https://github.com/EmmanuelPred"><i class="fab fa-github" style='font-size:30px' align="center"></i>/a>
+  <a href="https://github.com/EmmanuelPred"><i class="fab fa-github" style='font-size:30px' align="center"></i>
 
