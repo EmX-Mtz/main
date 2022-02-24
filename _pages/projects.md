@@ -13,9 +13,12 @@ horizontal: false
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
-  <p><span style="color: #33cccc;"><h2 class="category">{{ category }}</h2></span></p>
+  
+  <div class="w3-text-cyan">
+  <h2 class="category">{{ category }}</h2>
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
+  </div>
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
@@ -57,8 +60,6 @@ horizontal: false
 </div>
 
 <div class='footer'>
-  <a href="https://github.com/EmmanuelPred"><i class="fab fa-github" style='font-size:30px'></i></a>
-  <br></br>
-  <p>Copyright © 2022 Emmanuel M. - Website Design by me (who else? LOL)</p>
+  <a href="https://github.com/EmmanuelPred"><i class="fab fa-github" style='font-size:30px' align="center"></i>/a>
 </div>
 
