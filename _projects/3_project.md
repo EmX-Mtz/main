@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 
+title:  
 description: Gauss Seidel method
-img: assets/img/4.jpg
+img: assets/img/img4.jpg
 importance: 3
 category: Programming and Numerical Methods
 ---
@@ -13,3 +13,4 @@ Computational development of the Gauss-Seidel method, which allows us to solve e
 \f\relax{x} = \int_{-\infty}^\infty
     \f\hat\xi\,e^{2 \pi i \xi x}
     \,d\xi
+m \cdot m 
