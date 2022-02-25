@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: 
+description: These are some of my projects 
 nav: true
 display_categories: [Programming and Numerical Methods, Data Analysis, AI, Others]
 horizontal: false
