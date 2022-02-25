@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <h1> Encrypted Text </h1>
+title: <p> Encrypted Text </p>
 description:
 img: assets/img/img1.jpg
 importance: 1
