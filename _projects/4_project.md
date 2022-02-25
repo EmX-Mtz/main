@@ -2,7 +2,7 @@
 layout: page
 title: <p> Euler method </p>
 description:
-img: assets/img/img3.jpg
+img: assets/img/img5.jpg
 importance: 4
 category: Programming and Numerical Methods
 ---
