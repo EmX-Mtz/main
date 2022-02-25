@@ -59,6 +59,7 @@ horizontal: false
 </div>
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <div class='footer'>
   <a href="https://github.com/EmmanuelPred"><i class="fab fa-github" style='font-size:30px' align="center"></i>
