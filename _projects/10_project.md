@@ -2,7 +2,7 @@
 layout: page
 title: <p> Titanic Kaggle Competition </p>
 description: 
-img: assets/img/img9.png
+img: assets/img/img11.jpg
 importance: 3
 category: AI
 ---
