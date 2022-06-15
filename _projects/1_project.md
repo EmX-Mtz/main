@@ -12,4 +12,4 @@ The idea of this project is based on file or information security. Since there a
 The general operation of the program consists, on the one hand, in text, of extracting each character from a source (.txt) and interpreting the value (DEC) that each character has in the ASCII language. Once this value is obtained, a mathematical operation is applied to it so that this character changes its value in the ASCII language. With the new value of each character, another text file is generated, which is encrypted.
 
 
-Check projec on: [<i class="fab fa-github" style='font-size:30px' align="center"></i> ](https://github.com/EmmanuelPred/Encriptado_de_texto) 
+Check project on: [<i class="fab fa-github" style='font-size:30px' align="center"></i> ](https://github.com/EmmanuelPred/Encriptado_de_texto) 
