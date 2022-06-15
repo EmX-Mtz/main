@@ -9,3 +9,4 @@ category: Programming and Numerical Methods
 
 Computational development of the Gauss-Seidel method, which allows us to solve equations systems of the form nxn.
 
+Check project on:   [<i class="fab fa-github" style='font-size:30px' align="center"></i> ](https://github.com/EmmanuelPred/Gauss_Seidel_Method) 
