@@ -8,5 +8,6 @@ category: AI
 
 ---
 A dogs and cats classfier using convolutional neural networks.
-([link](https://github.com/EmmanuelPred))
+
+Check project on: [<i class="fab fa-github" style='font-size:30px' align="center"></i> ](https://github.com/EmmanuelPred/Dogs_and_Cats_Classifier) 
 
