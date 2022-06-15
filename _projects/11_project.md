@@ -2,7 +2,7 @@
 layout: page
 title: <p> Dogs and cats clasiffier </p>
 description: 
-img: assets/img/img11.jpg
+img: assets/img/img12.jpg
 importance: 3
 category: AI
 
