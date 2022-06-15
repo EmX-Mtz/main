@@ -8,4 +8,5 @@ category: AI
 
 ---
 A dogs and cats classfier using convolutional neural networks.
-<a href="https://github.com/EmmanuelPred"><i class="fab fa-github" style='font-size:30px' align="center"></i>
+[Repository]([https://khan.github.io/KaTeX/](https://github.com/EmmanuelPred))
+
