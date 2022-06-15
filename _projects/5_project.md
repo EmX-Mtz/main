@@ -8,3 +8,6 @@ category: Others
 ---
 
 College project that consist in the construction of a solar heater, this code allows the solar heater to track the sun light.
+
+
+Check project on: [<i class="fab fa-github" style='font-size:30px' align="center"></i> ](https://github.com/EmmanuelPred/Solar_Tracker_arduino) 
