@@ -37,7 +37,9 @@ nav: true
 <p>&nbsp;</p>
 <p>&nbsp;</p>
   
-  <div class="myDiv">
+  
+  
+<div class="myDiv">
 <h2> Others </h2>
 <div class="row">
   <ul>
