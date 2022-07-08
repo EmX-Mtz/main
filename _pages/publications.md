@@ -10,10 +10,10 @@ nav: true
 <h2> Physics </h2>
 <div class="row">
   <ul>
+  <li>Quantum Computing&nbsp;</li>
   <li>Quantum Mechanics&nbsp;</li>
-  <li>Computational Physics</li>
-  <li>Quantum Computing</li>
   <li>Estatistical Physics&nbsp;</li>
+  <li>Biophysics&nbsp;</li>
   </ul> 
 </div>
   
@@ -25,11 +25,21 @@ nav: true
 <h2> Information & Computing (Computer Science) </h2>
 <div class="row">
   <ul>
+  <li>Quantum Computing&nbsp;</li>
+  <li>Quantum Machine Learning</li>
   <li>Machine Learning&nbsp;</li>
   <li>Deep Learning</li>
-  <li>Quantum Machine Learning</li>
-  <li>Hopfield Networks</li>
-  <li>Boltzmann Machines</li>
-  <li>Optimization Algorithms&nbsp;</li>
+  <li>Optimization Algorithms (Bio-inspired Algorithms)&nbsp;</li>
   </ul> 
 </div>
+  
+  <div class="myDiv">
+<h2> Others </h2>
+<div class="row">
+  <ul>
+  <li>Bioinformatics&nbsp;</li>
+  </ul> 
+</div>
+  
+<p>&nbsp;</p>
+<p>&nbsp;</p>
